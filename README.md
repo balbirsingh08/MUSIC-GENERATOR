@@ -1,9 +1,2 @@
----
-title: music-generator
-emoji: 🐳
-colorFrom: purple
-colorTo: gray
-sdk: static
-pinned: false
-tags:
-  - deepsite
+HarmonyHub
+Create unique music compositions with AI. Select a genre, customize parameters, and generate beautiful melodies in seconds.
